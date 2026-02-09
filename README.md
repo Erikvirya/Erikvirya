@@ -2,7 +2,7 @@
 
 I am a **Senior Sales Engineer** and **FinTech Builder** specializing in FIX connectivity, Algorithmic Execution, and Brokerage Infrastructure.
 
-Currently based in **Singapore** 🇸🇬 (Relocating to Europe Summer 2026 🇪🇺).
+Currently based in **Singapore** 🇸🇬
 
 ---
 
